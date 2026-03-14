@@ -1,6 +1,6 @@
 
 Project Info  
-URL: https://github.com/aadityakarna/knowquest-journey/
+URL: https://github.com/Ayushman197g/knowquest-journey/
 
 
 How Can I Edit This Code?
